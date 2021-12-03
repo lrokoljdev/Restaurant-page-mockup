@@ -1,0 +1,175 @@
+/* Navbar*/
+
+.navbar
+{
+    background-color: rgb(6, 0, 59);
+}
+#navbarNavAltMarkup
+{
+    justify-content: flex-end;
+}
+.navbar-nav
+{
+    float: right;
+} 
+.navbar-brand
+{
+    color: white;
+    margin-left: 2%;
+    font-size: 2rem;
+}
+
+.nav-link
+{
+    color: white;
+    margin: 10px;
+}
+
+/* Home */
+
+.homeDiv
+{    
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(89, 89, 90);
+}
+
+.homePic
+{
+    padding: 5rem;
+}
+
+.homePic img
+{
+    display: block;
+    height: 70%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.homeText
+{
+    padding: 10rem;
+    text-align: center;
+}
+
+.homeText p 
+{
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+/* About */
+
+
+
+.aboutText
+{
+    padding: 5rem;
+    background-color: rgb(6, 0, 59);
+    text-align: center;
+}
+
+.aboutText p
+{
+    display: block;
+    margin: auto;
+    color: white;
+}
+.aboutPic
+{
+    padding: 5rem;
+    background-color: rgb(6, 0, 59);
+}
+
+.aboutPic img
+{
+    display: block;
+    height: 12rem;
+    width: 12rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+
+/* menu */
+
+#carouselExampleCaptions
+{
+    height:100%;
+    background-color: rgb(89, 89, 90);
+}
+
+.menu
+{
+    background-color: rgb(89, 89, 90);
+    text-align: center;
+}
+
+.menuCol
+{
+    margin: auto;
+    color: white;
+}
+
+/* Contact  */
+
+#contactSec
+{
+    padding: 5rem;
+    background-color: rgb(6, 0, 59);
+}
+form 
+{
+    margin: auto;
+}
+
+.form-label
+{
+    color: white;
+}
+
+.contactText
+{
+    padding: 5rem;
+    text-align: center;
+}
+
+.contactText h1
+{
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+.btn
+{
+    color: white;
+    border: 1px solid white
+}
+
+.btn:hover
+{
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgba(255, 255, 255, 0.5)
+}
+#footer
+{
+    background-color: rgb(89, 89, 90);
+}
+
+
+.socials
+{
+    padding: 2rem;
+    text-align: center;
+}
+.fab{
+    display: inline-block;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color:rgb(6, 0, 59);
+}
